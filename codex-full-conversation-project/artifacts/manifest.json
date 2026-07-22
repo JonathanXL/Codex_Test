@@ -1,0 +1,22 @@
+{
+  "project_name": "codex-full-conversation-project",
+  "created_for": "AI learning and conversation reconstruction",
+  "date": "2026-07-22",
+  "workspace": "C:\\Users\\j1839\\Documents\\Codex\\2026-07-22\\z",
+  "source_repositories": [
+    "JonathanXL/Bond_trade",
+    "JonathanXL/Codex_Test"
+  ],
+  "redactions": [
+    "GitHub Personal Access Token"
+  ],
+  "included_sections": [
+    "conversation timeline",
+    "detailed reconstruction",
+    "generated files index",
+    "GitHub operations",
+    "AI learning notes",
+    "security and redactions",
+    "reusable scripts"
+  ]
+}
